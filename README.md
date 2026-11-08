@@ -14,7 +14,7 @@
 ### About me
 
 - 🛡️ Building hands-on cybersecurity labs to learn how attacks look from the defender's side
-- 🎓 Studying **Cybersecurity and Information Assurance** at **Western Governors University (WGU)**, expected graduation Fall 2028
+- 🎓 Pursuing a **B.S. in Cybersecurity and Information Assurance** at **Western Governors University (WGU)**, expected graduation Fall 2028
 - 🏅 **CompTIA Security+ (SY0-701) certified**
 - 🔬 Focus areas: Active Directory, log analysis, SIEM detection, incident response
 - 🎯 Goal: an entry-level **SOC Analyst / Security Analyst** role
@@ -49,7 +49,7 @@
 
 ### Education & certifications
 
-- 🎓 Western Governors University (WGU): Cybersecurity and Information Assurance, *expected Fall 2028*
+- 🎓 Western Governors University (WGU): B.S. Cybersecurity and Information Assurance, *expected Fall 2028*
 - ✅ CompTIA Security+ (SY0-701)
 <!-- Add TryHackMe / HackTheBox / LetsDefend profile links here once you have them. -->
 
