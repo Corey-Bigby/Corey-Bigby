@@ -14,7 +14,7 @@
 ### About me
 
 - 🛡️ Building hands-on cybersecurity labs to learn how attacks look from the defender's side
-- 📚 Currently studying for **CompTIA Security+ (SY0-701)**
+- 🏅 **CompTIA Security+ (SY0-701) certified**
 - 🔬 Focus areas: Active Directory, log analysis, SIEM detection, incident response
 - 🎯 Goal: an entry-level **SOC Analyst / Security Analyst** role
 
@@ -48,7 +48,7 @@
 
 ### Certifications & learning
 
-- 🔄 CompTIA Security+ (SY0-701) — *in progress*
+- ✅ CompTIA Security+ (SY0-701)
 <!-- Add TryHackMe / HackTheBox / LetsDefend profile links here once you have them. -->
 
 ---
