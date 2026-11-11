@@ -28,7 +28,6 @@
 
 | Lab | What I built | Skills shown |
 |-----|--------------|--------------|
-| [**Active Directory Domain Lab**](https://github.com/Corey-Bigby/cybersecurity-homelabs/tree/main/labs/01-active-directory) | Windows Server domain controller, OUs, users, Group Policy, and domain-joined Windows clients | Identity & access management, GPO hardening, Windows administration |
 | [**SIEM & Log Monitoring**](https://github.com/Corey-Bigby/SOC-Home-lab) | Centralized Windows and Sysmon logging into Splunk with dashboards and alerts for suspicious activity | Splunk SPL, log ingestion, detection rules, alert triage, MITRE ATT&CK |
 
 **[See all labs, diagrams, and writeups](https://github.com/Corey-Bigby/cybersecurity-homelabs)**
