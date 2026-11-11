@@ -1,6 +1,6 @@
 <!-- Profile README: lives in the public repo github.com/Corey-Bigby/Corey-Bigby -->
 
-<h1 align="center">Hi, I'm Corey 👋</h1>
+<h1 align="center">Hi, I'm Corey</h1>
 <h3 align="center">SOC Analyst · Network Security · Air Force Veteran</h3>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ### About me
 
-- 🎖️ **U.S. Air Force Special Warfare** veteran: 4+ years setting up, troubleshooting, and teaching secure tactical networks and communications (Link 16, routers and switch stacks, encrypted radio systems, COMSEC)
-- 🔐 **Active DoD Secret clearance**
-- 📅 Available for a **DoD SkillBridge** fellowship, **January–May 2027**
-- 🛡️ Building hands-on cybersecurity labs to learn how attacks look from the defender's side
-- 🎓 Pursuing a **B.S. in Cybersecurity and Information Assurance** at **Western Governors University (WGU)**, expected graduation Fall 2028
-- 🏅 **CompTIA Security+ (SY0-701) certified**
-- 🔬 Focus areas: Active Directory, log analysis, SIEM detection, network traffic analysis, incident response
-- 🎯 Goal: an entry-level **SOC Analyst / Security Analyst** or **Network Security** role
+- **U.S. Air Force Special Warfare** veteran: 4+ years setting up, troubleshooting, and teaching secure tactical networks and communications (Link 16, routers and switch stacks, encrypted radio systems, COMSEC)
+- **Active DoD Secret clearance**
+- Available for a **DoD SkillBridge** fellowship, **January–May 2027**
+- Building hands-on cybersecurity labs to learn how attacks look from the defender's side
+- Pursuing a **B.S. in Cybersecurity and Information Assurance** at **Western Governors University (WGU)**, expected graduation Fall 2028
+- **CompTIA Security+ (SY0-701) certified**
+- Focus areas: Active Directory, log analysis, SIEM detection, network traffic analysis, incident response
+- Goal: an entry-level **SOC Analyst / Security Analyst** or **Network Security** role
 
 ---
 
@@ -31,7 +31,7 @@
 | [**Active Directory Domain Lab**](https://github.com/Corey-Bigby/cybersecurity-homelabs/tree/main/labs/01-active-directory) | Windows Server domain controller, OUs, users, Group Policy, and domain-joined Windows clients | Identity & access management, GPO hardening, Windows administration |
 | [**SIEM & Log Monitoring**](https://github.com/Corey-Bigby/SOC-Home-lab) | Centralized Windows and Sysmon logging into Splunk with dashboards and alerts for suspicious activity | Splunk SPL, log ingestion, detection rules, alert triage, MITRE ATT&CK |
 
-➡️ **[See all labs, diagrams, and writeups](https://github.com/Corey-Bigby/cybersecurity-homelabs)**
+**[See all labs, diagrams, and writeups](https://github.com/Corey-Bigby/cybersecurity-homelabs)**
 
 ---
 
@@ -56,8 +56,8 @@
 
 ### Education & certifications
 
-- 🎓 Western Governors University (WGU): B.S. Cybersecurity and Information Assurance, *expected Fall 2028*
-- ✅ CompTIA Security+ (SY0-701)
+- Western Governors University (WGU): B.S. Cybersecurity and Information Assurance, *expected Fall 2028*
+- CompTIA Security+ (SY0-701)
 <!-- Add TryHackMe / HackTheBox / LetsDefend profile links here once you have them. -->
 
 ---
