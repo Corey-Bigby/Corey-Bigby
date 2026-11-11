@@ -57,7 +57,7 @@
 
 - Western Governors University (WGU): B.S. Cybersecurity and Information Assurance, *expected Fall 2028*
 - CompTIA Security+ (SY0-701)
-- FEMA IS-100.c: Introduction to the Incident Command System (ICS 100)
+- FEMA National Incident Management System (NIMS): ICS-100
 <!-- Add TryHackMe / HackTheBox / LetsDefend profile links here once you have them. -->
 
 ---
